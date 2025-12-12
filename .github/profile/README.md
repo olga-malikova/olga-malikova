@@ -55,7 +55,7 @@
 
 ## 📂 Избранные проекты
 
-### 🎯 [Проект 1: Автоматизация онлайн-продаж](./portfolio-ba-projects/project-1-online-sales-automation/)
+### 🎯 [Проект 1: Автоматизация онлайн-продаж](https://github.com/olga-malikova/portfolio-ba-projects/tree/main/project-1-online-sales-automation)
 
 **Статус:** ✅ Завершен | **Сложность:** Средняя | **Продолжительность:** 9 месяцев (Яндекс Практикум)
 
@@ -85,7 +85,7 @@
 
 **Технологии:** BPMN 2.0 • User Story • Figma • Miro • Excel
 
-📂 [Открыть полный проект →](https://docs.google.com/document/d/1R1fKBIHBGNP79OYQ6PyNT1LXrXP5X-d_9qQrfBcvdrc/edit?usp=sharing)
+📂 [Открыть полный проект →](https://github.com/olga-malikova/portfolio-ba-projects/tree/main/project-1-online-sales-automation)
 
 ## 🎓 Образование и сертификации
 
