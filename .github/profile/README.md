@@ -85,7 +85,7 @@
 
 **Технологии:** BPMN 2.0 • User Story • Figma • Miro • Excel
 
-📂 [Открыть полный проект →](./portfolio-ba-projects/project-1-online-sales-automation/)
+📂 [Открыть полный проект →](https://docs.google.com/document/d/1R1fKBIHBGNP79OYQ6PyNT1LXrXP5X-d_9qQrfBcvdrc/edit?usp=sharing)
 
 ## 🎓 Образование и сертификации
 
